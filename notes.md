@@ -1,1 +1,2 @@
 - [Steven Rostedt - Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y)
+- [linux kernel doc](https://www.kernel.org/doc/html/)
