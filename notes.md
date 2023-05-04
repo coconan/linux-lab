@@ -1,2 +1,3 @@
 - [Steven Rostedt - Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y)
 - [linux kernel doc](https://www.kernel.org/doc/html/)
+- [Welcome to ftrace & the Start of Your Journey to Understanding the Linux Kernel!](https://blogs.vmware.com/opensource/2019/11/12/ftrace-linux-kernel/)
